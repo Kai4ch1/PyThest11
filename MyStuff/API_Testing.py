@@ -7,7 +7,7 @@ BASE_URL = "https://restful-booker.herokuapp.com"
 
 
 
-# === FIXTURE: Booking Payload ===
+# == FIXTURE: Booking Payload ===
 @pytest.fixture()
 def booking_payload():
     return {
