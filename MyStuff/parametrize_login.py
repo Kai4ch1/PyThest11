@@ -1,5 +1,7 @@
 import pytest
-
+"""
+TEST LOGIN + CREDENTIALS
+"""
 @pytest.mark.parametrize(
     "email", [
         "carl4welps@gmail.com",      # Valid email
